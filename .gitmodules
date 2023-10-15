@@ -1,0 +1,3 @@
+[submodule "az3166-devkit-sdk"]
+	path = az3166-devkit-sdk
+	url = git@github.com:fmuntean/az3166-devkit-sdk.git
