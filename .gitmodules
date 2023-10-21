@@ -4,3 +4,9 @@
 [submodule "az3166-devkit-app"]
 	path = az3166-devkit-app
 	url = git@github.com:fmuntean/az3166-devkit-app.git
+[submodule "azure-c-shared-utility"]
+	path = azure-c-shared-utility
+	url = git@github.com:fmuntean/azure-c-shared-utility.git
+[submodule "az3166-mico-os"]
+	path = az3166-mico-os
+	url = git@github.com:fmuntean/az3166-mico-os.git
