@@ -1,10 +1,17 @@
 # az3166
-AZ3166 DEVKIT main repository
+AZ3166 DEVKIT main repository.
+I started this repo to gather all the libs, frameworks and documentation I could find around the AZ3166 DEVKIT board.
 
-# scope
+The rest of the repos prefixed with az3166 are added as submodules in here for easier access.
+
+[# Getting Started](GettingStarted.md)
+
+Any help is appreciated.
+
+# Scope
 This repository contains all documents and scripts that I need to support the development of my AZ3166 DEVKIT Board.
 
-# structure
+# Folder Structure
 
 ## 3D:
 This is the folder containing all my OpenScad files related to this board.

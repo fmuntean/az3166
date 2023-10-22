@@ -48,6 +48,7 @@ https://github.com/StephenMMorris-PB/framework-arduinostm32mxchip
 https://github.com/kfessel/mxchip-iot-devkit
 https://github.com/arthma/devkit-sdk-core-lib
 https://github.com/liydu/mxchip-az3166
+https://github.com/obastemur/mxchip_az3166_firmware
 
 # STM32F103CBT6
 DEV KIT contains an externalARM Cortex-M3 STM32F1 Microcontroller IC 32-Bit Single-Core 72MHz 128KB (128K x 8) FLASH
